@@ -1,6 +1,6 @@
 body{
 	margin: 0;
-	font-family: 'Lexend Deca';
+	font-family: 'Lexend Deca', sans-serif;
 	font-size: 20px;
 	line-height: 24px;
 }
@@ -10,10 +10,6 @@ header{
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
-}
-
-h1, h2{
-	font-family: 'Nanum Pen Script', cursive;
 }
 
 /* header styles */
